@@ -5,9 +5,9 @@ using ll = long long;
 using db = double;
 using ld = long double;
 const int TEST_MIN = 1;
-const int TEST_MAX = 1;
-const string Code_name = ""; // Tên chương trình, đọc input từ file .inp và in ra file .out
-// file .check in ra kết quả và check out (nếu không thỏa mãn)
+const int TEST_MAX = 5;
+const string Code_name = ""; // Tên chương trình chạy, đọc input từ file .inp và in ra file .out
+// file id.check in ra kết quả và check output của test id.inp
 struct Order
 {
     int weight, profit;

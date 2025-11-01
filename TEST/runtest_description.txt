@@ -1,0 +1,7 @@
+Chương trình sẽ chạy từ TEST_MIN đến TEST_MAX để chạy chương trình của mọi người với mỗi test [TEST_MIN, TEST_MAX]
+Code của mọi người cần đọc input từ file ".inp" và in ra output ở file ".out"
+Thay đổi Code_name = "" là tên chương trình của mọi người.
+File "x.out" sẽ là output của mọi người ở test thứ x
+File "x.check" sẽ là checker của "x.out":
+- Nếu mà output của mọi người thỏa mãn ràng buộc đề bài thì "x.check" in ra số nguyên duy nhất là lợi nhuận tối ưu
+- Nếu không thì các dòng đầu tiên sẽ mô tả các ràng buộc không được thỏa mãn
